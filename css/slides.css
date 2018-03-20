@@ -1,0 +1,64 @@
+.reveal section img.logo {
+  border: 0;
+  background: none;
+  box-shadow: none;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.75);
+}
+
+.reveal section img.logo--nordic {
+  max-width: 200px;
+  float: left;
+  margin-right: 20px;
+}
+
+.reveal section img.logo--beerjs {
+  max-width: 100px;
+  float: left;
+  margin-right: 20px;
+}
+
+.box--nordic {
+  text-align: left;
+  font-size: 70% !important;
+}
+
+.reveal section h1.deck-title {
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+
+.reveal section h1.deck-title--smaller {
+  font-size: 2em;
+}
+
+.reveal section h1.deck-title--top {
+  margin-bottom: 350px;
+}
+
+.reveal section p.box--white {
+  background: rgba(255, 255, 255, 0.75);
+  padding: 20px;
+  font-weight: bold;
+  color: #446;
+}
+
+.reveal section p.box--black {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  font-weight: bold;
+  color: #ccc;
+}
+
+.reveal section p.box--smaller, .text--smaller {
+  font-size: 80% !important;
+}
+
+.text--even-smaller {
+  font-size: 50% !important;
+}
+
+.reveal section p.text--black {
+  font-weight: bold;
+  color: #113;
+}
